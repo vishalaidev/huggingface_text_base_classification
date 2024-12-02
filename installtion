@@ -4,3 +4,10 @@ pip install -e .
 cd ~/transformers/
 git pull
 HF_DATASETS_OFFLINE=1 HF_HUB_OFFLINE=1 
+
+generate token :
+create hugging-face acount
+generate token
+huggingface-cli login
+most important :Create a new access token Type Read instead of default Fine-grained (custom) (otherwise not download)
+
