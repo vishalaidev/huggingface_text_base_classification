@@ -34,7 +34,7 @@ Ensure that Python version **3.9.19** is installed.
 
 ---
 
-## **Screenshot**
+## **Generate token**
 
 ![Notebook Screenshot](https://github.com/user-attachments/assets/f25ead3f-bad6-47cf-9bcb-b6c1fce8c5e3)
 
