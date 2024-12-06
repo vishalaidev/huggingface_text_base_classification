@@ -64,5 +64,17 @@ To run the notebook:
 
 ---
 
+
+
+
+## **input**
+https://github.com/user-attachments/assets/94fc6d98-5882-4a3d-acbb-36fc8b1b8e2e
+
+## **Output**
+https://github.com/user-attachments/assets/6fb8ff4e-d421-43f4-a58d-138ece4388cd
+
+
+
+
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
