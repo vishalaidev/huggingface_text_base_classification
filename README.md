@@ -39,6 +39,4 @@ To run the notebook:
 Clone this repository.
 Install the necessary dependencies as described above.
 Open the notebook in Jupyter or any compatible environment and execute the cells.
-License
-This project is licensed under the MIT License.
 
